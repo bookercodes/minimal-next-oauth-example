@@ -1,0 +1,11 @@
+https://github.com/login/oauth/authorize
+?access_type=offline
+&client_id=Iv23liOQr37Slwu2DYMV
+&prompt=consent
+&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Foauth_callback
+&response_type=code
+&scope=read%3Auser+user%3Aemail
+&state=rt43lt8imoi7k2e6tgwkm5dgk4pej80dh7q73t1h
+
+
+https://github.com/login/oauth/authorize?access_type=offline&client_id=Iv23liOQr37Slwu2DYMV&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Foauth_callback&response_type=code&scope=read%3Auser+user%3Aemail
